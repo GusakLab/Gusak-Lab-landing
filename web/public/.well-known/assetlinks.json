@@ -1,13 +1,12 @@
 [
-    {
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.gusaklab.puzzlescroll",
-            "sha256_cert_fingerprints": [
-                "SHA256_FINGERPRINT_RELEASE",
-                "SHA256_FINGERPRINT_DEBUG"
-            ]
-        }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gusaklab.puzzlescroll",
+      "sha256_cert_fingerprints": [
+        "DF:1B:F9:76:07:53:E0:26:4C:70:31:CC:5A:73:03:D8:B8:BA:54:11:E7:B8:83:F6:02:FD:03:10:A9:F3:40:58"
+      ]
     }
+  }
 ]
